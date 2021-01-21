@@ -16,6 +16,9 @@
 ## binarytree 二叉树
 
 1. [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+2. [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
+3. [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
+4. [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
 
 ## dp 动态规划
 
@@ -25,6 +28,7 @@
 4. [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
 5. [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
 6. [337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)
+
 
 ## greedy 贪心
 
