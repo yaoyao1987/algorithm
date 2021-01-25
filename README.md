@@ -28,7 +28,7 @@
 4. [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
 5. [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
 6. [337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)
-
+7. [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
 
 ## greedy 贪心
 
@@ -38,6 +38,9 @@
 2. [1232. 缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/)
 
 ## linkedlist 链表
+
+1. [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+2. [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 
 ## math 数学
 
