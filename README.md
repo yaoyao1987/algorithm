@@ -43,6 +43,7 @@
 2. [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 3. [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 4. [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+5. [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
 
 ## math 数学
 
@@ -53,6 +54,8 @@
 1. [1018. 可被 5 整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/)
 
 ## string 字符串
+
+1. [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 
 ## twopointer 双指针
 
