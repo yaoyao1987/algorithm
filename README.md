@@ -6,6 +6,9 @@
 
 1. [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
 
+## bfs&&dfs 广度优先遍历 && 深度优先遍历
+1. [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+
 ## binarysearch 二分查找
 
 1. [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
@@ -19,6 +22,8 @@
 2. [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
 3. [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
 4. [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
+5. [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+6. [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 
 ## dp 动态规划
 
@@ -36,6 +41,9 @@
 
 1. [两数之和](https://leetcode-cn.com/problems/two-sum/)
 2. [1232. 缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/)
+3. [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
+4. [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
+5. [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
 
 ## linkedlist 链表
 
@@ -52,10 +60,20 @@
 ## other
 
 1. [1018. 可被 5 整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/)
+2. [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/)
+3. [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
+
+## stack&queue 栈和队列
+
+1. [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+2. [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
+3. [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 
 ## string 字符串
 
 1. [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+2. [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
+3. [212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)
 
 ## twopointer 双指针
 
