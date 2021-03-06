@@ -2,11 +2,14 @@
 
 ## array 数组
 
+1. [852. 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)
+
 ## backtrack 回溯
 
 1. [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
 
 ## bfs&&dfs 广度优先遍历 && 深度优先遍历
+
 1. [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 
 ## binarysearch 二分查找
@@ -15,6 +18,7 @@
 2. [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)
 3. [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 4. [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)
+5. [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)
 
 ## binarytree 二叉树
 
@@ -24,6 +28,8 @@
 4. [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
 5. [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 6. [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+7. [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+8. [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
 ## dp 动态规划
 
@@ -74,6 +80,9 @@
 1. [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 2. [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
 3. [212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)
+4. [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/)
+5. [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+6. [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)
 
 ## twopointer 双指针
 
