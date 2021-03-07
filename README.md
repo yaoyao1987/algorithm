@@ -3,6 +3,8 @@
 ## array 数组
 
 1. [852. 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)
+2. [905. 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)
+3. [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)
 
 ## backtrack 回溯
 
