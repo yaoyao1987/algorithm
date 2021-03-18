@@ -42,6 +42,9 @@
 5. [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
 6. [337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)
 7. [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
+8. [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+9. [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
+10. [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
 
 ## greedy 贪心
 
