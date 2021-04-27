@@ -5,6 +5,8 @@
 1. [852. 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)
 2. [905. 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)
 3. [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)
+4. [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+5. [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
 
 ## backtrack 回溯
 
@@ -32,6 +34,7 @@
 6. [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 7. [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 8. [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+9. [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
 
 ## dp 动态规划
 
@@ -45,6 +48,9 @@
 8. [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
 9. [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
 10. [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
+11. [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+12. [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+13. [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 
 ## greedy 贪心
 
@@ -55,6 +61,7 @@
 3. [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
 4. [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
 5. [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
+6. [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
 
 ## linkedlist 链表
 
@@ -63,6 +70,7 @@
 3. [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 4. [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 5. [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
+6. [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 
 ## math 数学
 
@@ -88,6 +96,9 @@
 4. [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/)
 5. [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
 6. [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)
+7. [165. 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)
+8. [1021. 删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/)
+9. [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)
 
 ## twopointer 双指针
 
